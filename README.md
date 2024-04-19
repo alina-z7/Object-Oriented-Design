@@ -1,21 +1,21 @@
-## COMP 313: Intermediate Object-Oriented Design - Student Repository
+# COMP 313: Intermediate Object-Oriented Design - Student Repository
 
-# Course Information
+## Course Information
 
 General Information
 Credit Hours: 3
 Student: Alina Zacaria
 University: Loyola University Chicago
 
-# About
+## About
 
 Welcome to my COMP 313 repository! As a student who has completed the course, this collection demonstrates my understanding of object-oriented programming principles, design patterns, Android app development, and Java programming skills.
 
-# Description
+## Description
 
 This repository showcases projects, samples, and code related to COMP 313, providing insights into object-oriented programming concepts, design patterns, and practical Java programming.
 
-# Learning Outcomes
+## Learning Outcomes
 
 Upon completing COMP 313, I have achieved the following:
 
@@ -29,7 +29,7 @@ Java Programming with Collections and Generics
 Android Development Basics
 Additional Object-Oriented Design Principles
 
-# Principles Of Object-Oriented Design
+## Principles Of Object-Oriented Design
 
 SOLID Principles
 
@@ -49,17 +49,17 @@ ADP (Acyclic Dependencies Principle): The dependency graph of packages should ha
 SDP (Stable Dependencies Principle): Depend in the direction of stability.
 SAP (Stable Abstractions Principle): A package should be as abstract as it is stable.
 
-# Projects and Samples
+## Projects and Samples
 
 Explore practical projects, samples, and code demonstrating the application of object-oriented programming concepts and Java programming skills.
 
-# How to Explore
+## How to Explore
 Navigate through directories to discover various projects and code samples. Each directory contains a README.md file providing instructions and explanations for the included materials.
 
-# Contribution and Industry Impact
+## Contribution and Industry Impact
 
 Contributions to this repository are welcome to enhance collaboration and learning. Understanding object-oriented programming principles and Java programming is essential for roles in software development, Android development, and related fields.
 
-# Relevance in Tech Careers
+## Relevance in Tech Careers
 
 Mastery of object-oriented programming and Java programming skills is valuable for various tech roles. Recruiters and industry professionals can explore practical implementations showcased in this repository.
