@@ -3,9 +3,9 @@
 ## Course Information
 
 General Information
-Credit Hours: 3
-Student: Alina Zacaria
-University: Loyola University Chicago
+- Credit Hours: 3
+- Student: Alina Zacaria
+- University: Loyola University Chicago
 
 ## About
 
